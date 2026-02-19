@@ -33,11 +33,5 @@ This project includes code and concepts originally developed by **Google**.
 
 *Note: If you are using this code, please ensure you keep the original LICENSE file in the root directory to comply with attribution requirements.*
 
-## Getting Started
-(Add your specific instructions here, for example:)
-1. Clone the repository.
-2. Install dependencies (e.g., Python, R).
-3. Run the analysis scripts located in the `bin/` folder.
-
 ---
 *Disclaimer: This repository is a distribution/implementation of the RAPPOR technology. Please refer to the original Google research papers for technical depth.*
