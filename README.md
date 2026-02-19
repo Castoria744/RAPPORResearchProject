@@ -6,6 +6,10 @@ Key Goal
 - 
 Eliminate/Change PII to a noise to preserve privacy
 
+HTML Test Run
+-
+https://castoria744.github.io/RAPPORResearchProject/
+
 # RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response
 
 ## Overview
